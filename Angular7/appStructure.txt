@@ -1,0 +1,17 @@
+● src
++---● app
+|   +--● employees
+|   |  |--employees.component.ts|.html|.css
+|   |  +--● employee - form
+|   |  |  |--employee.component.ts|.html|.css
+|   |  |
+|   |  +--● employee-list - list all the inserted records
+|   |  |  |--employee-list.component.ts|.html|.css
+|   |  |
+|   |  +--● shared
+|   |     |--employee.service.ts
+|   |     |--employee.model.ts
+|   |
+|   |--app.module.ts
+|
+|--index.html (cdn path for bootstrap)
